@@ -1,0 +1,21 @@
+.subs-item{
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  text-decoration: none;
+  line-height: 20px;
+}
+
+.img{
+  width: 26px;
+  height: 26px;
+  margin-right: 10px;
+}
+
+.title{
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  color: #898989;
+  margin: 0;
+}

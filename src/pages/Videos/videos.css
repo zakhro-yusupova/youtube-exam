@@ -1,0 +1,109 @@
+.videos-inner{
+  width: 1000px;
+  padding: 0 40px 40px 80px;
+  position: relative;
+}
+
+
+.videos{
+  border-radius: 14px;
+}
+
+.videos-procress-bar{
+  width: 960px;
+  position: absolute;
+z-index: 100;
+left: 100px;
+top: 400px;
+}
+/* .videos::after{
+  content: "";
+  width: 900px;
+  height: 90px;
+  background-image: url("../../assets/images/progress-bar.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: absolute;
+  z-index: 100;
+  bottom: 30px;
+} */
+
+.videos-title{
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  color: #192646;
+  text-transform: capitalize;
+  margin: 20px 0 5px;
+}
+
+.avtivity-box{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(82, 80, 80, 0.5);
+  margin-bottom: 38px;
+}
+
+.avtivity-subbox{
+  display: flex;
+  align-items: center;
+
+}
+
+.views-amount{
+  font-size: 20px;
+  line-height: 25px;
+  color: #C2C2C2;
+}
+
+.channel-wrap{
+  align-items: flex-start;
+}
+
+.channel-overview-wrapper{
+  width: 600px;
+}
+
+.channel-overview{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
+.channel-show-more{
+  display: inline-block;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  color: #C2C2C2;
+  margin-bottom: 40px;
+}
+
+.dark-content div .videos-title{
+  color: #FFFFFF;
+  }
+
+.dark-content div .channel-overview{
+  color: #FFFFFF;
+  }
+
+  .dark-content div .recom-videos-title{
+    color: #FFFFFF;
+    }
+
+    .dark-content div .recom-videos-autoplay{
+      color: #FFFFFF;
+      }
+
+      .dark-content .auto-light{
+        display: none;
+      }
+
+      .dark-content .auto-black{
+        display: block;
+      }

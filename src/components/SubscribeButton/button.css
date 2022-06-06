@@ -1,0 +1,11 @@
+.channel-subscribe-btn{
+  line-height: 20px;
+  text-align: center;
+  color: #FFFFFF;
+  background: #FF0000;
+  border-radius: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+  margin-right: 20px;
+  border: 1px solid transparent;
+}

@@ -1,0 +1,36 @@
+.nav-bar{
+  width: 255px;
+}
+
+.nav-bar__list{
+  padding: 0;
+  list-style-type: none;
+}
+
+.nav-bar__list a:first-child p{
+  color: #FF0000;
+}
+
+.subs{
+  display: block;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  color: #000000;
+  margin-top: 60px;
+  margin-bottom: 33px;
+  padding-left: 30px;
+}
+
+.channels{
+  padding-left: 30px;
+}
+
+.item{
+  margin-top: 35px;
+  list-style-type: none;
+}
+
+.item a{
+  padding-left: 0;
+}

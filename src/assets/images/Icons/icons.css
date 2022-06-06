@@ -1,0 +1,32 @@
+.menuburger{
+  margin-right: 28px;
+}
+
+.icon{
+margin-right: 50px;
+}
+
+.notification{
+  margin-right: 20px;
+}
+
+.active-icons{
+  margin-right: 10px;
+}
+
+.more{
+  margin-left: 30px;
+}
+
+
+.logo-black{
+  display: none;
+}
+
+.noti-black{
+  display: none;
+}
+
+.auto-black{
+  display: none;
+}
